@@ -41,8 +41,7 @@ A ride-hailing performance dashboard tracking revenue, bookings, and distance ac
 vehicle category — Auto, Bike, Go Mini, Go Sedan, Premier Sedan, and Uber XL.
 
 <div align="center">
-  <img src="./assets/uber-overview.gif" alt="Uber Dashboard Animated Walkthrough" width="90%">
-  <br><sub><i>💡 Replace this with a screen-recorded GIF of the dashboard's interactive filters/animations in action</i></sub>
+  <img src="./assets/uber-overview.png" alt="Uber Dashboard Overview" width="90%">
 </div>
 
 ### 🔑 Key Metrics
@@ -80,11 +79,6 @@ vehicle category — Auto, Bike, Go Mini, Go Sedan, Premier Sedan, and Uber XL.
 
 An analysis of Starbucks' global beverage nutrition data combined with worldwide store
 presence — built to explore how calories, sugar, and caffeine vary across drink categories.
-
-<div align="center">
-  <img src="./assets/starbucks-overview.gif" alt="Starbucks Dashboard Animated Walkthrough" width="90%">
-  <br><sub><i>💡 Replace this with a screen-recorded GIF of the slicers/cross-filtering in action</i></sub>
-</div>
 
 ### 🔑 Key Metrics
 | Metric | Value |
@@ -151,15 +145,21 @@ Power-BI---Dashboards/
 
 ## 🎥 Live Demos
 
-| Dashboard | Preview |
-|---|---|
-| 🚗 Uber Business Dashboard | *[Add YouTube/LinkedIn video link here]* |
-| ☕ Starbucks Insights Dashboard | *[Add YouTube/LinkedIn video link here]* |
+### 🚗 Uber Business Dashboard — Walkthrough
+<div align="center">
+  <video src="./assets/uber-demo.mp4" controls width="90%"></video>
+</div>
 
-> 💡 **Tip for real "animation" in your README:** GitHub markdown can't play `.pbix` interactivity directly,
-> but you can fake the motion with a screen-recorded **GIF**. Record a short clip of you clicking
-> through filters (e.g. with [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek)),
-> drop it in `/assets/`, and reference it exactly like the placeholders above — GitHub auto-plays GIFs inline.
+### ☕ Starbucks Insights Dashboard — Walkthrough
+<div align="center">
+  <video src="./assets/starbucks-demo.mp4" controls width="90%"></video>
+</div>
+
+> ⚠️ **If a video doesn't play inline after pushing:** GitHub only guarantees inline video playback
+> for files uploaded through its own web editor (drag-and-drop into the README edit box), not files
+> pushed via `git push`. If the embed above shows as a broken/download link instead of a player,
+> open `README.md` on GitHub.com, click ✏️ **Edit**, drag `uber-demo.mp4` / `starbucks-demo.mp4`
+> into the text box, copy the auto-generated URL it inserts, and swap it into the `src="..."` above.
 
 ---
 
