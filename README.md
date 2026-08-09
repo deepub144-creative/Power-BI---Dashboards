@@ -147,19 +147,13 @@ Power-BI---Dashboards/
 
 ### 🚗 Uber Business Dashboard — Walkthrough
 <div align="center">
-  <video src="./assets/uber-demo.mp4" controls width="90%"></video>
+  <img src="./assets/uber-demo.gif" alt="Uber Dashboard Demo" width="90%">
 </div>
 
 ### ☕ Starbucks Insights Dashboard — Walkthrough
 <div align="center">
-  <video src="./assets/starbucks-demo.mp4" controls width="90%"></video>
+  <img src="./assets/starbucks-demo.gif" alt="Starbucks Dashboard Demo" width="90%">
 </div>
-
-> ⚠️ **If a video doesn't play inline after pushing:** GitHub only guarantees inline video playback
-> for files uploaded through its own web editor (drag-and-drop into the README edit box), not files
-> pushed via `git push`. If the embed above shows as a broken/download link instead of a player,
-> open `README.md` on GitHub.com, click ✏️ **Edit**, drag `uber-demo.mp4` / `starbucks-demo.mp4`
-> into the text box, copy the auto-generated URL it inserts, and swap it into the `src="..."` above.
 
 ---
 
